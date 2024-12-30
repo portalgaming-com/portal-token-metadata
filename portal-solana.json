@@ -1,0 +1,16 @@
+{
+  "name": "PORTAL",
+  "symbol": "PORTAL",
+  "description": "Portal - The Universal Liquidity Layer",
+  "external_url": "https://portalgaming.com",
+  "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
